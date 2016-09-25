@@ -1,0 +1,4 @@
+pytest >= 3.0.2
+pytest-runner >= 2.9
+click >= 6.6
+nltk >= 3.2.1
